@@ -44,3 +44,7 @@ Detailed documentation can be found at [ThirdEye documentation](https://thirdeye
 - [Data Sources Setup](https://thirdeye.readthedocs.io/en/latest/datasources.html)
 - [Production Settings](https://thirdeye.readthedocs.io/en/latest/production.html)
 - [Alert Setup](https://thirdeye.readthedocs.io/en/latest/alert_setup.html)
+
+## Refer
+
+- https://medium.com/@gregsimons_84/apache-pinot-thirdeye-quickstart-helper-b5d8a95a22eb
